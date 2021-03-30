@@ -1,5 +1,5 @@
 const digaOi = _ =>{
-    console.log("aeeae")
+    console.log("_ serve pra substituir o () ae")
 }
 
 digaOi()
